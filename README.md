@@ -88,4 +88,8 @@ I hope you can chat freely with other developers and have a healing time!
 
 ## 처벌
 
-여기부턴 알아서 하슈
+경고 1회 => ㅇㄻㄴㅇㄹ
+
+경고 2회 => ㄴㄻㄴㅇㄻㄻㅇ
+
+경고 3회 => ㅁㄴㅇㄹㄴㅇㄹ
